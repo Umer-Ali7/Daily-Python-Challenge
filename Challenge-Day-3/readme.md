@@ -1,14 +1,14 @@
-# 🐍 Daily Python Challenge – Day 3  
+# 🐍 Daily Python Challenge – Day 3 
 ## 🔥 Challenge: Check Prime Number  
 
 ### 📌 Problem Statement  
 Aapko ek Python program likhna hai jo user se **ek number** lega aur check karega ke wo **prime number hai ya nahi**. Prime number wo hota hai jo sirf **1 aur khud se divisible ho**.  
 
 ### 🔹 Example  
-# Input: 7
+**Input: 7**
 Output: Yes, it's a prime number!
 
-# Input: 10
+**Input: 10**
 Output: No, it's not a prime number!
 
 
