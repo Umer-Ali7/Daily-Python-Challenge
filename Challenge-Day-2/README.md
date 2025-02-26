@@ -1,4 +1,4 @@
-### **📢 Day 2 – Daily Python Challenge 🐍**  
+### **📢 Day 2 – Daily Python Challenge 🐍**
 
 🚀 **Challenge:** Aisa Python program likhna hai jo user se ek **sentence** le aur usme jitne **words** hain, count kare! 🔢💡  
 
