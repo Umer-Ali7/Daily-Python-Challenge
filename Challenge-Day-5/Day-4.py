@@ -3,4 +3,4 @@ def sum(n):
 
 num = int(input("Enter a number: "))
 
-print(f"Sum {sum(num)}")
+print(f"Sum: {sum(num)}")
