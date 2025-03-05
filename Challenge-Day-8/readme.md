@@ -12,9 +12,9 @@ Create a **Number Guessing Game** where the program:
 ### 📝 Example Usage:  
 #### **Input:**  
 Guess the number (between 1 and 100): 45 <br>
-Too low! Try again.
+Too low! Try again. <br>
 Guess the number (between 1 and 100): 75 <br>
-Too high! Try again.
+Too high! Try again. <br>
 Guess the number (between 1 and 100): 63 <br>
 Congratulations! You guessed it right!
 
